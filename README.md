@@ -1,2 +1,2 @@
 # To-Do_list
-It is first project. I write whole code in Python language
+It is my first project. I write whole code in Python language
